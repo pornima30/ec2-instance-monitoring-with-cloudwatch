@@ -46,13 +46,15 @@ As part of cloud infrastructure monitoring, I configured an EC2 instance with th
 
 ## 📬 Email Alert Screenshot
 
-> ![Email Screenshot](screenshots/email-alert.png)
+> ![Email Screenshot](screenshots/email-alert.png)![email-alert png](https://github.com/user-attachments/assets/9262cd84-158f-466c-ac93-30260b1828ce)
+
 
 ---
 
 ## 📊 Metric Graph Screenshot
 
-> ![CloudWatch Graph](screenshots/cpu-metric.png)
+> ![CloudWatch Graph](screenshots/cpu-metric.png)![cpu-metric png](https://github.com/user-attachments/assets/7e3860d7-edbf-4b50-9a78-25b7f1d7d56c)
+
 
 ---
 
